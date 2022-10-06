@@ -36,3 +36,8 @@ terraform.rc
 
 *_env
 *.env
+
+create_k8s_gcp.txt
+*.DS_Store
+enade/
+enade2017*
